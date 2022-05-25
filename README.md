@@ -1,4 +1,5 @@
 # business-card
 
 React business card
-(https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://postimg.cc/vDhmwRNQ)
